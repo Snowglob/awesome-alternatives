@@ -22,6 +22,12 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/PeerTube).*
 
+### [Diaspora](https://the-federation.info/diaspora) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Facebook* — Diaspora (stylized as diaspora*) is a nonprofit, user-owned, [distributed social network](https://en.wikipedia.org/wiki/Distributed_social_network). It consists of a group of independently owned nodes (called [pods](https://podupti.me)) which interoperate to form the network. The social network is not owned by any one person or entity, keeping it from being subject to corporate take-overs or advertising. According to its developer, "our distributed design means no big corporation will ever control Diaspora."
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Diaspora_(social_network)).*
+
 ### [Mastodon](https://joinmastodon.org) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Twitter* — Mastodon is a free and open-source self-hosted social networking service. It allows anyone to host their own server node in the network, and its various separately operated user bases are federated across many different servers.
@@ -45,6 +51,12 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 *Alternative to Facebook* — Friendica is an open, free, distributed social network. It forms one part of the Fediverse, an interconnected and decentralized network of independently operated servers. 
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Friendica).*
+
+### [LBRY](https://lbry.com/)
+
+*Alternative to YouTube* - LBRY is a blockchain-based file-sharing and payment network that powers decentralized platforms, primarily social networks and video platforms. The video-sharing websites built upon it, such as LBRY.tv and Odysee, have been described as alternatives to YouTube. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/LBRY)
 
 ## [Communication Platforms](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
@@ -108,6 +120,13 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 *Alternative to Zoom* — Jitsi is a collection of free and open-source multiplatform voice (VoIP), videoconferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi).*
+
+
+### [Wire](https://wire.com) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Slack/Whatsapp/SMS* - Wire is an encrypted communication and collaboration app created by Wire Swiss. It is available for iOS, Android, Windows, macOS, Linux, and web browsers such as Firefox. Wire offers a collaboration suite featuring messenger, voice calls, video calls, conference calls, file-sharing, and external collaboration –all protected by a secure end-to-end-encryption. Wire offers three solutions built on its security technology: Wire Pro –which offers Wire's collaboration feature for businesses, Wire Enterprise –includes Wire Pro capabilities with added features for large-scale or regulated organizations, and Wire Red –the on-demand crisis collaboration suite. They also offer Wire Personal, which is a secure messaging app for personal use. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Wire_(software))*
 
 ## Photo Editing
 
@@ -176,6 +195,12 @@ Ardour is an open source, collaborative effort of a worldwide team including mus
 
 *Text from Ardour homepage*
 
+### [LMMS](https://https://lmms.io/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+LMMS is a free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer. This includes the creation of melodies and beats, the synthesis and mixing of sounds, and arranging of samples. You can have fun with your MIDI-keyboard and much more; all in a user-friendly and modern interface.
+
+*Text from GitHub page*
+
 ### [Mixxx](https://mixxx.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Mixxx integrates the tools DJs need to perform creative live mixes with digital music files.
@@ -194,6 +219,12 @@ Open source video editor. Free and easy to use for any purpose, forever.
 Shotcut is a free, open source, cross-platform video editor.
 
 *Text from Shotcut homepage*
+
+### [Avidemux](http://avidemux.sourceforge.net/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Avidemux is a free and open-source software for non-linear video editing and transcoding multimedia files. It is written in C++ and uses Qt for its graphical user interface, and FFmpeg for its multimedia functions. Starting with version 2.4, Avidemux also offers a command-line interface. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Avidemux)*
 
 ## Android App Stores
 
