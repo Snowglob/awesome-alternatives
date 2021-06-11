@@ -102,6 +102,10 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [AndroidPIT](https://www.androidpit.com/session-messenger-review).*
 
+#### [Snikket](https://snikket.org/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+*Alternative to WhatsApp* — Snikket is an open-source easy-to-use decentralized messaging app. It supports encrypted chats, voice and video calls and group messaging. It does not require a phone number, and allows you to add multiple devices on the same account. Once you create your private Snikket instance (either hosted or self-hosted), you can invite your family and friends to join you by sharing a simple link. Snikket is part of an open network based on the
+standard messaging protocol XMPP, so you can also communicate with people on other Snikket instances and compatible messaging services.
+
 ### [Briar](https://code.briarproject.org/briar/briar) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to WhatsApp* — Briar is an open-source software communication technology, intended to provide secure and resilient peer-to-peer communications with no centralized servers and minimal reliance on external infrastructure. Connections are made through bluetooth, WiFi, or over the internet via Tor and all private communication is end-to-end encrypted.
@@ -387,7 +391,11 @@ Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* ,*[GitLab](https
 
 ## Links to Linux Café
 
-- [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
+- [Linux Café Website](htOnce you create your private Snikket instance (either hosted or
+[self-hosted](/self-hosting/)), you can invite your family and friends to join
+you by sharing a simple link. Snikket is part of an open network based on the
+standard messaging protocol [XMPP](/use/xmpp/), so you can also communicate
+with people on other Snikket instances and compatible messaging services.tps://linuxcafefederation.github.io/LinuxCafe/)
 - [Linux Café Discord](https://discord.gg/YY4zrNR)
 - [Linux Café Matrix](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat)
 - [Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ)
