@@ -391,11 +391,7 @@ Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* ,*[GitLab](https
 
 ## Links to Linux Café
 
-- [Linux Café Website](htOnce you create your private Snikket instance (either hosted or
-[self-hosted](/self-hosting/)), you can invite your family and friends to join
-you by sharing a simple link. Snikket is part of an open network based on the
-standard messaging protocol [XMPP](/use/xmpp/), so you can also communicate
-with people on other Snikket instances and compatible messaging services.tps://linuxcafefederation.github.io/LinuxCafe/)
+- [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
 - [Linux Café Discord](https://discord.gg/YY4zrNR)
 - [Linux Café Matrix](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat)
 - [Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ)
