@@ -90,6 +90,10 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Telegram_(software))*
 
+### [Threema](https://threema.ch/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to WhatsApp* — The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source.
+
 ### [Signal](https://signal.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Requires a phone number.**
 
 *Alternative to WhatsApp/SMS* — Signal is a cross-platform encrypted messaging service developed by the Signal Foundation and Signal Messenger LLC. It uses the Internet to send one-to-one and group messages, which can include files, voice notes, images and videos. Its mobile apps can also make one-to-one voice and video calls 
