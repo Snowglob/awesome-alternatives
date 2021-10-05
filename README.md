@@ -66,6 +66,7 @@ Whether you are a new DJ with just a laptop or an experienced turntablist, Mixxx
 - [Kdenlive](https://kdenlive.org/en/) - Open source video editor. Free and easy to use for any purpose, forever.
 - [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor.
 - [Avidemux](http://avidemux.sourceforge.net/) - Avidemux is a free and open-source software for non-linear video editing and transcoding multimedia files. It is written in C++ and uses Qt for its graphical user interface, and FFmpeg for its multimedia functions. Starting with version 2.4, Avidemux also offers a command-line interface. 
+- [Olive](https://www.olivevideoeditor.org/) - Olive is a professional free and open source non-linear video editor.
 
 ## Android App Stores
 
