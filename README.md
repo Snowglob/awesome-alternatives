@@ -3,6 +3,10 @@
 
 A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) and services. Some of the software below has proprietary backend, and only the application or the frontend the user interacts with is open source.
 
+## Support the maintainer of this list
+- CashApp: $CipherOps
+- Amazon Wishlist: https://amazon.com/hz/wishlist/ls/1GD5YOV16E0G0
+
 ## Contents
 
 - [Social Media](#social-media)
