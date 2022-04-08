@@ -112,7 +112,8 @@ https://searx.ninja/ <br>
 - [Nitter](https://nitter.net/) - A free and open source alternative Twitter front-end focused on privacy, inspired by the Invidious project.[GitHub](https://github.com/zedeus/nitter) <br>
  Addons: [FireFox](https://addons.mozilla.org/en-US/firefox/addon/nitter-redirect/) | [Chrome(ium)](https://chrome.google.com/webstore/detail/nitter-redirect/mohaicophfnifehkkkdbcejkflmgfkof)
 - [Teddit](https://teddit.net/) - Teddit is a free and open source alternative Reddit front-end focused on privacy. Teddit doesn't require you to have JavaScript enabled in your browser. The source is available on [Codeberg](https://codeberg.org/teddit/teddit).
--[LibReddit](https://libredd.it/) - Private front-end for Reddit written in Rust. [GitHub](https://github.com/spikecodes/libreddit#how-does-it-compare-to-teddit)
+- [LibReddit](https://libredd.it/) - Private front-end for Reddit written in Rust. [GitHub](https://github.com/spikecodes/libreddit#how-does-it-compare-to-teddit)
+- [Cusdis](https://cusdis.com/) - Cusdis is an open-source, lightweight (~5kb gzip), privacy-friendly alternative to Disqus. [GithHub](https://github.com/djyde/cusdis)
 
 ## External sources
 
